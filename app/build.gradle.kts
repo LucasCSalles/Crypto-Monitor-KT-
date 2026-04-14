@@ -58,6 +58,7 @@ dependencies {
     androidTestImplementation(libs.androidx.ui.test.junit4)
     debugImplementation(libs.androidx.ui.tooling)
     debugImplementation(libs.androidx.ui.test.manifest)
+    implementation(libs.androidx.compose.material.icons.extended)
     implementation(libs.squareup.retrofit)
     implementation(libs.squareup.retrofit.gson)
 }
